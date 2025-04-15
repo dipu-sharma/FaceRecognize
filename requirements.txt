@@ -1,0 +1,17 @@
+# Core requirements
+fastapi==0.109.1
+uvicorn==0.27.0
+python-multipart==0.0.6
+
+# Face recognition
+face-recognition==1.3.0
+face-recognition-models==0.3.0
+dlib==19.24.2
+
+# Image processing
+Pillow==10.1.0
+opencv-python==4.9.0.80
+numpy==1.26.3
+
+# WebSocket support
+websockets==12.0
